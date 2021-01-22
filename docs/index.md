@@ -1,4 +1,35 @@
 ## HETERO8
 
-# 오오 상길 생일축하한다~
+EDIT: [Editor on GitHub](https://github.com/hetero8/hetero8.github.io/edit/main/docs/index.md) 
 
+SETUP: [Repository settings](https://github.com/hetero8/hetero8.github.io/settings). 
+ 
+Jekyll: [Jekyll](https://jekyllrb.com/) 
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
