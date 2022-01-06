@@ -1,3 +1,3 @@
 # hetero8.
-tech, game, diving, ...
+tech, game, diving, ... etc
 
